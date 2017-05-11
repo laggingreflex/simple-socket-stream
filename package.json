@@ -3,5 +3,9 @@
   "version": "0.1.1",
   "description": "Simple [socket.io-stream] wrapper",
   "main": "index.js",
-  "repository": "laggingreflex/simple-socket-stream"
+  "repository": "laggingreflex/simple-socket-stream",
+  "dependencies": {
+    "merge": "^1.2.0",
+    "socket.io-stream": "^0.9.1"
+  }
 }
